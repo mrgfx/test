@@ -3,7 +3,7 @@
 Hi
  
 Basic html structure
-
+/*
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,3 +16,4 @@ Basic html structure
 
 </body>
 </html>
+*/
